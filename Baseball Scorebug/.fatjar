@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Nov 08 19:34:02 CST 2013
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=ScorebarBackEnd_fat.jar
+manifest.mergeall=true
+manifest.mainclass=ScorebarApp.java
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
