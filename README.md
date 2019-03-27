@@ -11,6 +11,5 @@ The point of this program is to output the graphic in the lower left of the wind
 part of the window and is not intended for broadcast. In a production environment the green background can be chromakey'd,
 and the top part of the window can be cropped.
 
-Email me with any comments or questions. 
-joe.schwehr@gmail.com
+Message me with questions or concerns. Thanks.
 
